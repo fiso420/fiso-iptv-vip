@@ -63,16 +63,6 @@ Premium Live TV Streaming Platform
 
 ---
 
-## 📢 Community
-
-**Telegram:**  
-https://t.me/+Xkhmsk_SioxmMjA9
-
-**Facebook:**  
-https://www.facebook.com/profile.php?id=61575329324296
-
----
-
 ## 👨‍💻 Developer
 
 **FISO TANVIR**
