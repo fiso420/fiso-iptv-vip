@@ -4,6 +4,13 @@ Premium Live TV Streaming Platform
 
 ---
 
+## 📥 Download
+
+[⬇️ Download Latest APK](https://github.com/fiso420/fiso-iptv-vip/releases/tag/v1.0)
+
+---
+
+
 ## ✨ Features
 
 - 📡 60000+ Live Channels
